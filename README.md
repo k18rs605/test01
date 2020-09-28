@@ -29,7 +29,7 @@ You can jump to [GitHub](https://github.com)easily.
 
 ## Section 5
 
-Table is als easy.
+Table is also easy.
 
 |Team   | Win | lose | Draw |
 |-------|----:|-----:|-----:|
