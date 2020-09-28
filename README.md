@@ -29,10 +29,10 @@ You can jump to [GitHub](https://github.com)easily.
 
 ## Section 5
 
-This is als easy.
+Table is als easy.
 
 |Team   | Win | lose | Draw |
-|-------|-----|------|------|
+|-------|----:|-----:|-----:|
 |Hawks  |   49|    34|     4|
 |Eagles |   46|    36|     2|
 |Marines|   42|    39|     3|
